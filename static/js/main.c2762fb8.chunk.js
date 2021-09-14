@@ -52,7 +52,7 @@
         l = c(6),
         j = c(22),
         r = c.n(j),
-        n = c.p + "../media/photo.705cee18.png",
+        n = c.p + "./media/photo.705cee18.png",
         h = c(1);
       function d() {
         return Object(h.jsx)("div", {
@@ -112,12 +112,12 @@
         });
       }
       var m = c(80),
-        b = c.p + "../media/diplom1.1b00651e.jpg",
-        x = c.p + "../media/diplom2.f89fffb6.jpg",
-        o = c.p + "../media/diplom3.89e17822.jpg",
-        p = c.p + "../media/diplom4.658ed451.jpg",
-        O = c.p + "../media/diplom5.f10465a0.jpg",
-        u = c.p + "../media/diplom6.b7376b8b.jpg",
+        b = c.p + "./media/diplom1.1b00651e.jpg",
+        x = c.p + "./media/diplom2.f89fffb6.jpg",
+        o = c.p + "./media/diplom3.89e17822.jpg",
+        p = c.p + "./media/diplom4.658ed451.jpg",
+        O = c.p + "./media/diplom5.f10465a0.jpg",
+        u = c.p + "./media/diplom6.b7376b8b.jpg",
         g = c(16),
         _ = c.n(g);
       function f() {

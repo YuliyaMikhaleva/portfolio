@@ -35,8 +35,7 @@
   position: absolute;
   left: -29px;
   top: 4px;
-  background-image: url("../media/photo.705cee18.png");
-  /*background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATBAMAAACXXLs2AAAAAXNSR0IB2cksfwAAACRQTFRFAAAA////////////////////////////////////////////tAmN6QAAAAx0Uk5TAP+fXy/vD8+vb09/1pQHPQAAAGNJREFUeJxjYIABJmEGJKAoaIDgMAkKCiNLCQo6IEkJCqFIKQBpti3IUumiDkhShYIhSFKCgqIOMCkGRyAjAm4gsyAEKEDMNgRzYHYxI0tBJBHOYEaWAkkipECSSFIMDCthDADeHQtcdgrStgAAAABJRU5ErkJggg==);*/
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAATBAMAAACXXLs2AAAAAXNSR0IB2cksfwAAACRQTFRFAAAA////////////////////////////////////////////tAmN6QAAAAx0Uk5TAP+fXy/vD8+vb09/1pQHPQAAAGNJREFUeJxjYIABJmEGJKAoaIDgMAkKCiNLCQo6IEkJCqFIKQBpti3IUumiDkhShYIhSFKCgqIOMCkGRyAjAm4gsyAEKEDMNgRzYHYxI0tBJBHOYEaWAkkipECSSFIMDCthDADeHQtcdgrStgAAAABJRU5ErkJggg==');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 50%;
