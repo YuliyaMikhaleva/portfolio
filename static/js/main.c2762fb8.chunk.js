@@ -112,12 +112,12 @@
         });
       }
       var m = c(80),
-        b = c.p + "/static/media/diplom1.1b00651e.jpg",
-        x = c.p + "/static/media/diplom2.f89fffb6.jpg",
-        o = c.p + "/static/media/diplom3.89e17822.jpg",
-        p = c.p + "/static/media/diplom4.658ed451.jpg",
-        O = c.p + "/static/media/diplom5.f10465a0.jpg",
-        u = c.p + "/static/media/diplom6.b7376b8b.jpg",
+        b = c.p + "./static/media/diplom1.1b00651e.jpg",
+        x = c.p + "./static/media/diplom2.f89fffb6.jpg",
+        o = c.p + "./static/media/diplom3.89e17822.jpg",
+        p = c.p + "./static/media/diplom4.658ed451.jpg",
+        O = c.p + "./static/media/diplom5.f10465a0.jpg",
+        u = c.p + "./static/media/diplom6.b7376b8b.jpg",
         g = c(16),
         _ = c.n(g);
       function f() {
@@ -184,7 +184,7 @@
       }
       var N = c(3),
         v = c.n(N),
-        k = c.p + "html1.2fed43f4.jpg",
+        k = c.p + "/static/media/html1.2fed43f4.jpg",
         y = c.p + "/static/media/html2.edaa17a8.jpg",
         w = c.p + "/static/media/html3.be637583.jpg",
         S = c.p + "/static/media/html4.2b6531e0.jpg",
