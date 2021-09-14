@@ -52,7 +52,7 @@
         l = c(6),
         j = c(22),
         r = c.n(j),
-        n = c.p + "https://yuliyamikhaleva.github.io/portfolio/static/media/photo.705cee18.png",
+        n = c.p + "/static/media/photo.705cee18.png",
         h = c(1);
       function d() {
         return Object(h.jsx)("div", {
@@ -112,7 +112,7 @@
         });
       }
       var m = c(80),
-        b = c.p + "https://yuliyamikhaleva.github.io/portfolio/static/media/diplom1.1b00651e.jpg",
+        b = c.p + "/static/media/diplom1.1b00651e.jpg",
         x = c.p + "/static/media/diplom2.f89fffb6.jpg",
         o = c.p + "/static/media/diplom3.89e17822.jpg",
         p = c.p + "/static/media/diplom4.658ed451.jpg",
@@ -184,8 +184,7 @@
       }
       var N = c(3),
         v = c.n(N),
-        k = c.p + "https://yuliyamikhaleva.github.io/portfolio/static/media/html1.2fed43f4.jpg",
-        // k = c.p + "/static/media/html1.2fed43f4.jpg",
+        k = c.p + "static/media/html1.2fed43f4.jpg",
         y = c.p + "/static/media/html2.edaa17a8.jpg",
         w = c.p + "/static/media/html3.be637583.jpg",
         S = c.p + "/static/media/html4.2b6531e0.jpg",
