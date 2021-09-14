@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "gagalin";
+  src: url("./gagalin-regular.otf");
+}
+.title {
+  width: 100%;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 400;
+  color: white;
+  text-align: center;
+  margin: 0 0 29px 0;
+  font-family: "gagalin";
+}
+.section {
+  width: 100%;
+  padding: 50px 145px 50px 145px;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.card {
+  box-sizing: border-box;
+  background-color: #60346b;
+  border-radius: 10px;
+  margin: 20px 20px;
+  padding: 10px;
+  height: 655px;
+}
+.listUl{
+  width: 300px;
+}
+.card:hover{
+  transform: scale(1.1);
+}
+
+img {
+  display: block;
+  border-radius: 10px;
+  /*margin: 0 auto;*/
+}
+.cardText {
+  display: block;
+  text-align: center;
+  font-family: "gagalin";
+  font-weight: normal;
+  width: 300px;
+  margin: 5px 0 5px 0;
+}

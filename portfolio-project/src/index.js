@@ -1,11 +1,19 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { App } from "./App";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { Portfolio } from "./components/Portfolio/Portfolio";
 
-//strictmode - компонент, который позволяет обнаружить потенциальные проблемы в приложения
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById("root"),
-);
+//strictmode - компонент, который позволяет обнаружить потенциальные проблемы в приложениb
+//BrowserRouter для точ, чтобы были роуты
+//папка components должна быть обязательно в src
+const App = () => {
+  return (
+    <BrowserRouter>
+      <Switch>
+        <Route exact={true} path="/" component={Portfolio} />
+      </Switch>
+    </BrowserRouter>
+  );
+};
+
+ReactDOM.render(<App />, document.getElementById("root"));

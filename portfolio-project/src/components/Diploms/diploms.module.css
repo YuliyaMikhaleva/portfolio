@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "gagalin";
+  src: url("./gagalin-regular.otf");
+}
+.imgDiploms {
+  display: block;
+  width: 1000px;
+  height: 700px;
+  margin: 0 auto;
+}
+.title {
+    text-align: center;
+    color: white;
+    font-family: "gagalin";
+    font-size: 30px;
+}
+.diploms{
+    height: 100vh;
+}
+
+.carousel div button{
+    background-color: #60346b !important;
+    height: 10px!important;
+}

@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "comfortaa";
+  src: url("./comfortaa-light.ttf");
+}
+@font-face {
+  font-family: "gagalin";
+  src: url('./gagalin-regular.otf');
+}
+.nameFactor {
+  font-weight: bold;
+  color: #60346b;
+}
+.feedback {
+  color: white;
+  font-family: "comfortaa";
+  padding: 10px 0 100px 10px;
+  box-sizing: border-box;
+  border-top: 1px solid white;
+}
+.date {
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  font-family: "gagalin";
+  margin: 0 0 30px 0;
+  font-size: 30px;
+}
+
+a{
+  display: block;
+}
+
+.links{
+  width: 20%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+i:hover{
+  color: #60346b;
+}
+i:active{
+  color: white;
+}
