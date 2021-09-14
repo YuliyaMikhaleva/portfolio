@@ -184,7 +184,7 @@
       }
       var N = c(3),
         v = c.n(N),
-        k = c.p + "static/media/html1.2fed43f4.jpg",
+        k = c.p + "html1.2fed43f4.jpg",
         y = c.p + "/static/media/html2.edaa17a8.jpg",
         w = c.p + "/static/media/html3.be637583.jpg",
         S = c.p + "/static/media/html4.2b6531e0.jpg",
