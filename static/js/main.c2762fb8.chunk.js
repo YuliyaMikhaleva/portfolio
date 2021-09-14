@@ -52,7 +52,7 @@
         l = c(6),
         j = c(22),
         r = c.n(j),
-        n = c.p + "/static/media/photo.705cee18.png",
+        n = c.p + "static/media/photo.705cee18.png",
         h = c(1);
       function d() {
         return Object(h.jsx)("div", {
