@@ -52,7 +52,7 @@
         l = c(6),
         j = c(22),
         r = c.n(j),
-        n = c.p + "../static/media/photo.705cee18.png",
+        n = c.p + "./../static/media/photo.705cee18.png",
         d = c(1);
       function h() {
         return Object(d.jsx)("div", {
@@ -123,59 +123,59 @@
         O = c.p + "static/media/diplom5.f10465a0.jpg",
         u = c.p + "static/media/diplom6.b7376b8b.jpg",
         g = c(16),
-        f = c.n(g);
-      function _() {
+        _ = c.n(g);
+      function f() {
         return Object(d.jsx)("div", {
-          className: f.a.diploms,
+          className: _.a.diploms,
           children: Object(d.jsxs)("a", {
             name: "slider",
             children: [
               Object(d.jsx)("h1", {
-                className: f.a.title,
+                className: _.a.title,
                 children:
                   "\u0421\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u044b \u043e\u0431 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0438",
               }),
               Object(d.jsxs)(m.a, {
-                className: f.a.carousel,
+                className: _.a.carousel,
                 children: [
                   Object(d.jsx)(m.a.Item, {
                     children: Object(d.jsx)("img", {
-                      className: f.a.imgDiploms,
+                      className: _.a.imgDiploms,
                       src: b,
                       alt: "photo1",
                     }),
                   }),
                   Object(d.jsx)(m.a.Item, {
                     children: Object(d.jsx)("img", {
-                      className: f.a.imgDiploms,
+                      className: _.a.imgDiploms,
                       src: x,
                       alt: "photo2",
                     }),
                   }),
                   Object(d.jsx)(m.a.Item, {
                     children: Object(d.jsx)("img", {
-                      className: f.a.imgDiploms,
+                      className: _.a.imgDiploms,
                       src: o,
                       alt: "photo3",
                     }),
                   }),
                   Object(d.jsx)(m.a.Item, {
                     children: Object(d.jsx)("img", {
-                      className: f.a.imgDiploms,
+                      className: _.a.imgDiploms,
                       src: p,
                       alt: "photo4",
                     }),
                   }),
                   Object(d.jsx)(m.a.Item, {
                     children: Object(d.jsx)("img", {
-                      className: f.a.imgDiploms,
+                      className: _.a.imgDiploms,
                       src: O,
                       alt: "photo5",
                     }),
                   }),
                   Object(d.jsx)(m.a.Item, {
                     children: Object(d.jsx)("img", {
-                      className: f.a.imgDiploms,
+                      className: _.a.imgDiploms,
                       src: u,
                       alt: "photo6",
                     }),
@@ -576,7 +576,7 @@
           children: [
             Object(d.jsx)(G, {}),
             Object(d.jsx)(h, {}),
-            Object(d.jsx)(_, {}),
+            Object(d.jsx)(f, {}),
             Object(d.jsx)(Y, {}),
             Object(d.jsx)(E, {}),
           ],
@@ -584,7 +584,7 @@
       }
       var X = function () {
         return Object(d.jsx)(i.a, {
-          basename: "/porfolio",
+          basename: "",
           children: Object(d.jsx)(l.c, {
             children: Object(d.jsx)(l.a, { exact: !0, path: "/", component: W }),
           }),
@@ -595,4 +595,4 @@
   },
   [[61, 1, 2]],
 ]);
-//# sourceMappingURL=main.03ff739b.chunk.js.map
+//# sourceMappingURL=main.26d9b8f8.chunk.js.map
