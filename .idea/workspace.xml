@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a3fbe16-538d-4056-aaeb-87b28b5acac5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/portfolio-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-project/src/components/Examples/Examples.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-project/src/components/Examples/Examples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-project/src/components/Feedback/Feedback.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-project/src/components/Feedback/Feedback.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-project/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-project/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-project/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-project/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xr3QcaCK0bE7vXXjzqkDsyj8Jj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio-project" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Юля\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Юля\Desktop\portfolio\portfolio-project" />
+      <recent name="C:\Users\Юля\Desktop\portfolio\portfolio-project\public\fonts" />
+      <recent name="C:\Users\Юля\Desktop\portfolio\portfolio-project\public" />
+      <recent name="C:\Users\Юля\Desktop\portfolio\portfolio-project\src\components\Portfolio" />
+      <recent name="C:\Users\Юля\Desktop\portfolio\portfolio-project\src\components\Animation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Юля\Desktop\portfolio\portfolio-project\src\components\Feedback" />
+      <recent name="C:\Users\Юля\Desktop\portfolio\portfolio-project\src\components\Diploms" />
+      <recent name="C:\Users\Юля\Desktop\portfolio\portfolio-project\src\components\Examples" />
+      <recent name="C:\Users\Юля\Desktop\portfolio\portfolio-project\src\components\Aboutme" />
+      <recent name="C:\Users\Юля\Desktop\portfolio\portfolio-project\src\components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a3fbe16-538d-4056-aaeb-87b28b5acac5" name="Default Changelist" comment="" />
+      <created>1631099364943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631099364943</updated>
+      <workItem from="1631099366055" duration="5973000" />
+      <workItem from="1631172630296" duration="19279000" />
+      <workItem from="1631216144412" duration="10686000" />
+      <workItem from="1631251217829" duration="1768000" />
+      <workItem from="1631253572337" duration="2025000" />
+      <workItem from="1631255844386" duration="6673000" />
+      <workItem from="1631456631254" duration="1946000" />
+      <workItem from="1631458597730" duration="1284000" />
+      <workItem from="1631459945041" duration="2051000" />
+      <workItem from="1631462041550" duration="244000" />
+      <workItem from="1631462303450" duration="14769000" />
+      <workItem from="1631510717744" duration="9950000" />
+      <workItem from="1631538074515" duration="651000" />
+      <workItem from="1631606856709" duration="2298000" />
+      <workItem from="1631637968685" duration="13290000" />
+      <workItem from="1631686515563" duration="4689000" />
+      <workItem from="1631691302099" duration="3550000" />
+      <workItem from="1632857129843" duration="3304000" />
+      <workItem from="1632861011885" duration="864000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1631178569911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631178569911</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init2">
+      <created>1631178681285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631178681285</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Создание портфолио">
+      <created>1631644228256</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631644228256</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="init2" />
+    <MESSAGE value="Создание портфолио" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание портфолио" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1186" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631221561885">
+      <screen x="-1280" y="-96" width="1280" height="984" />
+    </state>
+    <state x="-1186" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1280.-96.1280.984@-1280.-96.1280.984" timestamp="1631221561885" />
+    <state x="-798" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631257950649">
+      <screen x="-1280" y="-96" width="1280" height="984" />
+    </state>
+    <state x="-798" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1280.-96.1280.984@-1280.-96.1280.984" timestamp="1631257950649" />
+    <state x="723" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1280.-96.1280.984@0.0.1920.1040" timestamp="1631181495676" />
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1632861067018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040/-1280.-96.1280.984@0.0.1920.1040" timestamp="1631521390824" />
+    <state x="-1180" y="273" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1631646006813" />
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1632861067018" />
+    <state width="1898" height="444" key="GridCell.Tab.0.bottom" timestamp="1631461997627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="444" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.-96.1280.984@0.0.1920.1040" timestamp="1631461997627" />
+    <state width="1898" height="444" key="GridCell.Tab.0.center" timestamp="1631461997627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="444" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.-96.1280.984@0.0.1920.1040" timestamp="1631461997627" />
+    <state width="1898" height="444" key="GridCell.Tab.0.left" timestamp="1631461997627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="444" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.-96.1280.984@0.0.1920.1040" timestamp="1631461997627" />
+    <state width="1898" height="444" key="GridCell.Tab.0.right" timestamp="1631461997627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="444" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.-96.1280.984@0.0.1920.1040" timestamp="1631461997627" />
+    <state x="-1139" y="26" key="SettingsEditor" timestamp="1631178428708">
+      <screen x="-1280" y="-96" width="1280" height="984" />
+    </state>
+    <state x="-1139" y="26" key="SettingsEditor/0.0.1920.1040/-1280.-96.1280.984@-1280.-96.1280.984" timestamp="1631178428708" />
+    <state x="-1572" y="236" key="Vcs.Push.Dialog.v2" timestamp="1631644248319">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1048" y="127" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.-96.1280.984@-1280.-96.1280.984" timestamp="1631178689320" />
+    <state x="-1572" y="236" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1631644248319" />
+    <state x="-1304" y="235" key="run.anything.popup" timestamp="1631642919988">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="235" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1631642919988" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1631607068409">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1631607068409" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/portfolio-project/src/components/Examples/Examples.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

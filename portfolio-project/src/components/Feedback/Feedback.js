@@ -4,8 +4,8 @@ import styles from "./feedback.module.css";
 import "moment/locale/ru";
 
 export default function Feedback() {
-  // const now = moment().locale("Ru").format("MMMM Do YYYY");
-  const now = moment("13/09/2021", "DD.MM.YYYY").locale("ru").format("13 MMM YYYY");
+  const now = moment().locale("Ru").format("DD MMMM YYYY");
+  // const now = moment();
   return (
     <div className={styles.feedback}>
       <a name="contacts">

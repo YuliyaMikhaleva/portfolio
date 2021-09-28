@@ -8,6 +8,7 @@ import html5 from "./html5.jpg";
 import html6 from "./html6.jpg";
 import html7 from "./html7.jpg";
 import html8 from "./html8.jpg";
+import html9 from "./html9.jpg";
 
 export default function Examples() {
   return (
@@ -65,8 +66,8 @@ export default function Examples() {
           <ul className={styles.listUl}>
             {" "}
             <li>добавление товаров в корзину</li>
-            <li>посчет общего количества товаров в корзине</li>
-            <li>подсчет количества товаров конкретного вида в корзине</li>
+            <li>подсчёт общего количества товаров в корзине</li>
+            <li>подсчёт количества товаров конкретного вида в корзине</li>
             <li>подсчёт итоговой суммы корзины</li>
           </ul>
         </a>
@@ -78,6 +79,7 @@ export default function Examples() {
             <li>автоматический просчёт цены заказа в кафе</li>
           </ul>
         </a>
+
         <a href="https://yuliyamikhaleva.github.io/vueshopjs2/" className={styles.card}>
           <img src={html7} alt="example7" width="300" height="295" />
           <span className={styles.cardText}>Разработка интернет-магазина</span>
@@ -88,9 +90,10 @@ export default function Examples() {
             <li>подсчет количества товаров конкретного вида в корзине</li>
             <li>подсчёт итоговой суммы корзины</li>
             <li>Форма обрабатной связи (проверка через регулярные выражения)</li>
-            <li>Информация о товарах берется через fetch с созданного сервера на github</li>
+            <li>Информация о товарах берется c созданного сервера на github</li>
           </ul>
         </a>
+
         <a href=" https://yuliyamikhaleva.github.io/chat" className={styles.card}>
           <img src={html8} alt="example2" width="300" height="295" />
           <span className={styles.cardText}>Разработка чата</span>
@@ -103,6 +106,48 @@ export default function Examples() {
             <li>редактирование личного кабинета</li>
             <li>создание страницы регистрации и авториции</li>
             <li>использование в качестве базы данных firebase</li>
+          </ul>
+        </a>
+
+        <a href="https://yuliyamikhaleva.github.io/clothing_store/" className={styles.card}>
+          <img src={html9} alt="example9" width="300" height="295" />
+          <span className={styles.cardText}>Разработка интернет-магазина на чистом JS</span>
+          <ul className={styles.listUl}>
+            <li>добавление товаров в корзину</li>
+            <li>удаление товаров из корзины</li>
+            <li>подсчет количества товаров в корзине</li>
+            <li>автоматический подсчет суммы за каждый вид товара и за всю корзину в целом</li>
+            <li>Информация о товарах берется c созданного сервера на github</li>
+          </ul>
+        </a>
+
+        <a href="https://yuliyamikhaleva.github.io/clothing_store_vue/" className={styles.card}>
+          <img src={html9} alt="example9" width="300" height="295" />
+          <span className={styles.cardText}>Разработка такого же интернет-магазина на VUE JS</span>
+          <ul className={styles.listUl}>
+            <li>добавление товаров в корзину</li>
+            <li>удаление товаров из корзины</li>
+            <li>подсчет количества товаров в корзине</li>
+            <li>автоматический подсчет суммы за каждый вид товара и за всю корзину в целом</li>
+
+            <li>
+              <i>
+                отдельно еще разработан такой же интернет-магазин с использованием VUEX, но возникли
+                сложности с его развертыванием на github-pages
+              </i>
+            </li>
+          </ul>
+        </a>
+
+        <a href="https://yuliyamikhaleva.github.io/cra-project/#/" className={styles.card}>
+          <img src={html9} alt="example9" width="300" height="295" />
+          <span className={styles.cardText}>Разработка интернет-магазина на чистом JS</span>
+          <ul className={styles.listUl}>
+            <li>добавление товаров в корзину</li>
+            <li>удаление товаров из корзины</li>
+            <li>подсчет количества товаров в корзине</li>
+            <li>автоматический подсчет суммы за каждый вид товара и за всю корзину в целом</li>
+            <li>Информация о товарах берется c созданного сервера на github</li>
           </ul>
         </a>
       </a>
